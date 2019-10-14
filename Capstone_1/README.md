@@ -3,7 +3,7 @@ This is my first capstone project of the Springboard curriculum
 My dataset comes from the adult 2017 California Health Information Survey: http://healthpolicy.ucla.edu/chis/Pages/default.aspx
 My goal is to get a better understanding of the variables that cause psychological distress and to see how well it can predicted
 
-The main notebook located within Capstone1_PsychologicalDistress.ipynb. This notebook contains all Data Wrangling, EDA, and machine learning models
+The main notebook located within Capstone1_PsychologicalDistress.ipynb. This notebook contains all Data Wrangling, EDA, and machine learning models including Random Forest, Logistic Regression, K-Nearest Neighbors, and Gradient Boosting.
 
 Other documentation: 
 1. CHIS 2017 ADULT (FINAL).pdf is the actual questionaire administered
