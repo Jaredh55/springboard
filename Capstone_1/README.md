@@ -8,3 +8,6 @@ The main notebook located within Capstone1_PsychologicalDistress.ipynb. This not
 Other documentation: 
 1. CHIS 2017 ADULT (FINAL).pdf is the actual questionaire administered
 2. CHIS 2017 Data Dictionary_PUF_Adult Oct 2018.pdf is the data dictionary which describes collection methods and the the describes each question
+3. select_cols.csv are a list of columns I manually selected
+
+Data not published, can be downloaded for free on website
