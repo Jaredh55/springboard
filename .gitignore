@@ -1,5 +1,5 @@
 *.SAS
 *.xpt
 *.sas7bdat
+.ipynb_checkpoints
 .DS_Store
-/Capstone_1/.ipynb_checkpoints/
