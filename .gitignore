@@ -1,3 +1,4 @@
 *.SAS
 *.xpt
 *.sas7bdat
+*.ipynb_checkpoints
