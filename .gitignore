@@ -4,3 +4,7 @@
 */.ipynb_checkpoints/*
 Crimes_-_2001_to_present.csv
 *.pptx
+.DS_Store
+.gitignore
+.*
+!/.gitignore
