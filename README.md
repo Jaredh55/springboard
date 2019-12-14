@@ -1,6 +1,6 @@
 # springboard
 
-This repository contains all work related to coursework within the Springboard curriculum:
+This repository contains all projects within the Springboard curriculum:
 \
 \
 -Capstone_1 contains my first project on Predicting Psychological Distress
